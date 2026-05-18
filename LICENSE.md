@@ -1,4 +1,4 @@
-# 
+# instant deribit trading bot executor is the best deribit trading bot executor with auto-leverage and grid-trading. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
